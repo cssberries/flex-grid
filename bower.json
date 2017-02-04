@@ -1,0 +1,18 @@
+{
+  "name": "flex-grid",
+  "authors": [
+    "Yevgeniy Belov"
+  ],
+  "description": "A grid system based on flex-box module.",
+  "main": "objects-flex-grid.less",
+  "keywords": [
+    "grid",
+    "system",
+    "css",
+    "OOCSS",
+    "ITCSS",
+    "BEM"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
