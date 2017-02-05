@@ -1,18 +1,29 @@
 {
-  "name": "flex-grid",
-  "authors": [
-    "Yevgeniy Belov"
-  ],
-  "description": "A grid system based on flex-box module.",
-  "main": "objects-flex-grid.less",
-  "keywords": [
-    "grid",
-    "system",
-    "css",
-    "OOCSS",
-    "ITCSS",
-    "BEM"
-  ],
-  "license": "MIT",
-  "homepage": ""
+    "name": "flex-grid",
+    "version": "v0.0.1",
+    "authors": [
+        "Yevgeniy Belov"
+    ],
+    "description": "A grid system based on flex-box module.",
+    "main": "main.less",
+    "keywords": [
+        "grid",
+        "system",
+        "css",
+        "OOCSS",
+        "ITCSS",
+        "BEM"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/cssberries/flex-grid",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "objects-flexbox": "cssberries-objects-flexbox#latest"
+    }
 }
